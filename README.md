@@ -5,3 +5,4 @@
 
 ## Interesting Presentations
 ### Pair Programming
+### VIME:Variational Information Maximizing Exploration
