@@ -7,7 +7,7 @@
 ## 2) Sentence Generation by Sequence to Sequence Model in Language Acquisition Environment
 #### - [A Seq2Seq model generating sentences based on semantic features of a scene](https://github.com/shekarchi/ArticlesOrReports/blob/master/Sentence_Generation_by_Sequence_to_Sequence_Model_in_Language_Aquisition_Environment.pdf)
 
-## 3) Cross-Situational Word Learning Under Uncertainty
+## 3) Cross-Situational Word Learning Under Uncertainty ([poster](https://github.com/shekarchi/ArticlesOrReports/blob/master/16th_Annual_Conference_of_NAACL_June_2018.pdf))
 #### Aida Nematzadeh, Zahra Shekarchi, Thomas L. Griffiths, Suzanne Stevenson
 #### - 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL): Human Language Technologies, June 2018
 
