@@ -12,5 +12,5 @@
 #### - 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL): Human Language Technologies, June 2018
 
 ## 4) Interesting Presentations
-### 4.1) Pair Programming
+### 4.1) [Pair Programming](https://github.com/shekarchi/ArticlesOrReports/blob/master/Pair%20Programming.pdf)
 ### 4.2) VIME:Variational Information Maximizing Exploration
